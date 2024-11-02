@@ -1,0 +1,15 @@
+{
+  "name": "itis-6177-websockets-chat-with-socketio-pdutch",
+  "version": "1.0.0",
+  "description": "Implementation of socket.io getting started chat app for ITIS-6177.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pdutch",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
